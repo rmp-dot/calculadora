@@ -1,6 +1,7 @@
 """
 Calculator Class
 Objetivo: Manipular as características da Calculadora
+
 """
 import re
 import math

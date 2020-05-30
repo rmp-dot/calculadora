@@ -3,6 +3,7 @@ Factories
 Construtor de Funções
 by RMP
 in 29/05/2020
+
 """
 import tkinter as tk
 from typing import List
